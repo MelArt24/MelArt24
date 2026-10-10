@@ -44,9 +44,13 @@ Git • GitHub • Gradle • Android Studio • GitHub Actions • Firebase •
 
 A modern Android weather application built with **Kotlin and Jetpack Compose**.
 
+📱 **Published on Google Play:**  
+[View Imbrel on Google Play](https://play.google.com/store/apps/details?id=com.am24.imbrel)
+
 Key engineering areas:
 
 - layered MVVM architecture
+- Kotlin + Jetpack Compose UI
 - Retrofit + REST API integration
 - Room offline caching
 - DataStore persistence
@@ -57,6 +61,7 @@ Key engineering areas:
 - Detekt + ktlint static analysis
 - GitHub Actions CI
 - Cloudflare Worker API gateway
+- production release on Google Play
 
 ---
 
