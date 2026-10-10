@@ -102,7 +102,7 @@ Worked with Android development using:
 
 ### Igor Sikorsky Kyiv Polytechnic Institute (KPI)
 
-**Bachelor's Degree • 2023–2027**
+**Bachelor's Degree in Software Engineering • 2023–2027**
 
 ---
 
